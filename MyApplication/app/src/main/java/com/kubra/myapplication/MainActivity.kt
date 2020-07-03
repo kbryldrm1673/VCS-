@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
         stringForLoop()
         arrayForLoop()
         printForLoop()
-        multipleForLoop()
 
         val kubra= arrayOf("selim",1,"kübra",true,2)
         for (i in kubra){
